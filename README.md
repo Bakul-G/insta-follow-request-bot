@@ -6,3 +6,16 @@ For this script, you'll need to supply a CSV file containing the usernames of th
 ## Tools/Libraries used
 * Selenium
 * Pandas
+* Jupyter Notebook
+
+## Installations
+* selenium
+```
+pip install selenium
+```
+* pandas
+```
+pip install pandas
+```
+## Running the script
+To begin, install the libraries mentioned above. Next, create a CSV file with the usernames listed vertically. Then, enter your username and password into the code. Finally, execute all cells in the Jupyter notebook.
